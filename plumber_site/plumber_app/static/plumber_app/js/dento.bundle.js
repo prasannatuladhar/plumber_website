@@ -19,6 +19,7 @@
     }
 }());
 
+
 /* ******************************
  * classyNav.js 1.0.0
  * Responsive Megamenu plugins
